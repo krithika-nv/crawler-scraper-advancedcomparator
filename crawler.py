@@ -164,4 +164,3 @@ if __name__ == '__main__':
     logging.info('Started crawl and scrape at: {}.'.format(datetime.datetime.now()))
     starter()
     logging.info('Published finished results at {}.'.format(datetime.datetime.now()))
-    print(datetime.datetime.now())
